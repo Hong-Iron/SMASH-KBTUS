@@ -1,0 +1,34 @@
+{
+ "region": "대전 유성구 하기동",
+ "nameEn": "Korea Baptist Theological University",
+ "added": "2026-10-27T21:00",
+ "rank": 240,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "CNU",
+   "campus": "충남대학교 대덕캠퍼스",
+   "km": 2.6
+  },
+  {
+   "code": "DDU",
+   "campus": "대덕대학교",
+   "km": 3.6
+  },
+  {
+   "code": "KAIST",
+   "campus": "KAIST 대전 본원",
+   "km": 3.7
+  },
+  {
+   "code": "HANBAT",
+   "campus": "국립한밭대학교",
+   "km": 4.5
+  },
+  {
+   "code": "MOKWON",
+   "campus": "목원대학교",
+   "km": 6.9
+  }
+ ]
+}
